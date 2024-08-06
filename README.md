@@ -20,6 +20,7 @@
 
 ## - Platform
 ![Github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Velog](https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@sbigstar0310/posts)
 
 <br><br>
 
